@@ -1,2 +1,4 @@
-# my-path-to-my-start
-This shows the path that I am taking to start my career in development
+# Here is a bit about me
+I have always implemented graphic design work for a majority of my life. 
+I recently decided to pursue development because of secret interest.
+So now I am pursuing development.
